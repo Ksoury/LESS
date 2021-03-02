@@ -1,0 +1,38 @@
+
+*
+{font-family: arial,sans-serif;
+font-size: 1em;
+}
+
+*
+{list-style: none}
+*
+{text-decoration: none;color: inherit}
+
+.header{
+    display: flex;
+    justify-content: flex-end 
+  }
+
+.box{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .box2{
+    display: flex;
+    justify-content: center
+  }
+
+  .box3{
+    display: flex;
+    justify-content: center
+  }
+
+  .footer1{
+    display: flex;
+    justify-content: center
+  }
+ 
